@@ -123,8 +123,8 @@ export function Footer() {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p className="text-gray-400 text-sm">All rights Reserved © Your Company, 2021</p>
-          <p className="text-gray-400 text-sm">Made with ❤️ by Themewagon</p>
+          <p className="text-gray-400 text-sm">All rights Reserved © BlackXCode 2025</p>
+          <p className="text-gray-400 text-sm">Made with ❤️ by <a href="https://github.com/Natthyx" className="text-white hover:text-orange-500">Natannan Zeleke</a></p>
         </div>
       </div>
     </footer>

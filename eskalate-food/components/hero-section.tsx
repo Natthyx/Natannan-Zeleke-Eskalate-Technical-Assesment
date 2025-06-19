@@ -36,7 +36,10 @@ export function HeroSection({ onSearch, searchQuery = "" }: HeroSectionProps) {
   }
 
   return (
-    <section className="bg-gradient-to-r from-orange-400 to-orange-500 py-16 px-4">
+    <section className="w-full bg-gradient-to-r from-orange-400 to-yellow-300 min-h-[500px] flex flex-col items-center justify-center px-4 py-16 relative overflow-hidden">
+      {/* Decorative circles */}
+      <div className="absolute -right-40 top-1/2 -translate-y-1/2 w-[400px] h-[400px] bg-yellow-200 rounded-full opacity-30" />
+      <div className="absolute -left-20 top-1/3 w-[200px] h-[200px] bg-orange-300 rounded-full opacity-30" />
       <div className="max-w-7xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-8 items-center">
           <div className="text-white">
