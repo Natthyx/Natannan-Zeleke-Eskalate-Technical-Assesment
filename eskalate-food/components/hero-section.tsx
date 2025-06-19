@@ -94,7 +94,7 @@ export function HeroSection({ onSearch, searchQuery = "" }: HeroSectionProps) {
 
           <div className="flex justify-center lg:justify-end">
             <div className="relative">
-              <img src="/hero-food.png" alt="Delicious noodle bowl" className="w-80 h-80 object-cover rounded-full" />
+              <img src="/hero-food.png" alt="Delicious noodle bowl" className="w-85 h-90 object-contain rounded-full" />
             </div>
           </div>
         </div>
