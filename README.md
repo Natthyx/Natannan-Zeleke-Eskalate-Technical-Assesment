@@ -49,7 +49,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 \`\`\`bash
-git clone <https://github.com/your-username/eskalate-food](https://github.com/Natthyx/Natannan-Zeleke-Eskalate-Technical-Assesment/>
+git clone <https://github.com/Natthyx/Natannan-Zeleke-Eskalate-Technical-Assesment>
 cd eskalate-food
 \`\`\`
 
